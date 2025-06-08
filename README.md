@@ -1,3 +1,3 @@
 # pomar-na-mao-processamentos
 
-# Comeco dos processamentos de dado e transformacoes de arquivo do projeto Pomar na mão.
+Início dos processamentos de dados e transformações de arquivos do projeto Pomar na Mão.
